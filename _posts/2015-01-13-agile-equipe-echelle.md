@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Uniformiser sa gestion de contenus via un CMS
+title: Mise en place de pratiques agiles a l echelle d une equipe
 category: blog
 tags: [tags for the post, is here]  
 summary: Le sujet du moment c'est l'agilite et vous vous demander comment y aller simplement Investissez peu, recoltez du feedback et voyez si cela vous apporte de la valeur. 
