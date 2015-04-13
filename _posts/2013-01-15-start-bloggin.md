@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: Uniformiser sa gestion de contenus via un CMS
+title: Here is the title of the post
 category: blog
 tags: [tags for the post, is here]  
-summary: Le sujet du moment c'est l'agilite et vous vous demander comment y aller simplement Investissez peu, recoltez du feedback et voyez si cela vous apporte de la valeur. 
+summary: Here is a summary of the post
 image: /images/blog/blogging-again.png
 ---
 

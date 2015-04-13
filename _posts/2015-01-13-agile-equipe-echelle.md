@@ -7,10 +7,3 @@ summary: Le sujet du moment c'est l'agilite et vous vous demander comment y alle
 image: /images/blog/blogging-again.png
 ---
 
-This is a template with masonry to get the theme
-
-```
-git clone https://github.com/pasindud/jekyll-masonry-theme
-```
-
-Edit the _config.yml to change your settings
