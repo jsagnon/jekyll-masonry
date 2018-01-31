@@ -6,11 +6,11 @@ url: "https://jsagnon.github.io"
 
 # User settings
 username: Joel SAGNON
-user_description: Anon Developer at Lorem Ipsum Dolor
+user_description: Agile Catalyst @HardisGroup
 email: joel.sagnon@gmail.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+twitter_username: JoelSAGNON
+github_username:  jsagnon
+gplus_username:  JoelSagnonS
 disqus_username: lorem_ipsum
 
 # Build settings
@@ -31,8 +31,8 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Series
-    url: /series
+  - title: Vidéos
+    url: /videos
   - title: Tags
     url: /tags
   - title: About Me
