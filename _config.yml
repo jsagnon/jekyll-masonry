@@ -1,5 +1,4 @@
 # Site settings
-title: Joel SAGNON
 description: A blog about Agile
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jsagnon.github.io"
