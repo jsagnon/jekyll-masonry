@@ -1,4 +1,5 @@
 # Site settings
+title: Joel SAGNON - Agile catalyst
 description: A blog about Agile
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jsagnon.github.io"
@@ -10,7 +11,7 @@ email: joel.sagnon@gmail.com
 twitter_username: JoelSAGNON
 github_username:  jsagnon
 gplus_username:  JoelSagnonS
-disqus_username: lorem_ipsum
+disqus_username: jsagnon
 
 # Build settings
 markdown: kramdown
