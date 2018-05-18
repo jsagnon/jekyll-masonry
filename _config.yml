@@ -1,5 +1,5 @@
 # Site settings
-title: Joel SAGNON - Agile catalyst
+title: Joël SAGNON - Agile catalyst & coach
 description: A blog about Agile
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jsagnon.github.io"
@@ -18,13 +18,12 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:title/
 
-
 # html minify
-compress_html:
-  clippings: all
-  comments: all
-  endings: []
-  profile: false
+# compress_html: true
+#   clippings: all
+#   comments: all
+#   endings: []
+#   profile: false
 
 # Links to include in menu navigation
 # For external links add external: true
