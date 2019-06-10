@@ -4,10 +4,10 @@ title: "Mise en place de pratiques Agiles à l echelle d une equipe"
 date: 2015-01-13 22:43:23
 image: '/assets/img/linter/errors-list.png'
 description: 'Le sujet du moment c est l agilite et vous vous demandez comment y aller simplement. Investissez peu, recoltez le feedback et voyez si cela vous apporte de la valeur. '
-main-class: 'js'
+main-class: 'events'
 color: '#D6BA32'
 tags:
-- js
+- Team
 - linter
 - tutorial
 categories:
